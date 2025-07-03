@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"232","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"31","AlignHorizontal":"3","AlignVertical":"2","AppName":"RESTAURANT","BackgroundColor":"&HFF000000","CloseScreenAnimation":"fade","HighContrast":"True","OpenScreenAnimation":"fade","Title":"HOMESCREEN","Uuid":"0","$Components":[{"$Name":"Image1","$Type":"Image","$Version":"6","Uuid":"1443855452"},{"$Name":"Label1","$Type":"Label","$Version":"5","BackgroundColor":"&HFFFFFFFF","FontBold":"True","Text":"WELCOME TO HEAVEN'S CLOUD","Uuid":"681694964"},{"$Name":"Button1","$Type":"Button","$Version":"7","Text":"CONTINUE","Uuid":"-2123239425"},{"$Name":"Player1","$Type":"Player","$Version":"6","Source":"ttsMP3.com_VoiceText_2023-10-10_19_15_51.mp3","Uuid":"-1231244011","Volume":"100"},{"$Name":"KIO4_AniGif1","$Type":"KIO4_AniGif","$Version":"2","Uuid":"-2008430794"}],"Theme":"Classic"}}
+|#

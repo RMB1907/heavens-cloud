@@ -38,15 +38,15 @@ Heaven’s Cloud is a mobile application built using MIT App Inventor to enhance
 
 ## Project Structure
 ```
-├── assets/ # Images, sounds, and location assets
-├── src/ # Screen design and logic block files
-├── youngandroidproject/ # Metadata for App Inventor
-├── project.properties # App configuration details
-├── HeavenCloud.aia # MIT App Inventor source file (optional)
-├── L4G.pdf # Technical and user documentation
-└── README.md # Project summary and usage guide
-```
+project/
+├── assets/                       # App assets (media, UI components, etc.)
+├── src/appinventor/              # Source blocks for MIT App Inventor
+├── youngandroidproject/          # Project metadata and structure files
+├── L4G.pdf                       # Project documentation
+├── README.md                     # Project overview and instructions
+├── restaurant.aia                # Main project file for MIT App Inventor
 
+```
 ---
 
 ## How to Run the Project

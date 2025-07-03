@@ -59,6 +59,22 @@ project/
 
 ---
 
+## How to Test the App
+
+You can run and test the Heaven’s Cloud app using the **MIT AI2 Companion** app:
+
+1. Go to [MIT App Inventor](https://ai2.appinventor.mit.edu/).
+2. Log in and click **"Projects" → "Import project (.aia) from my computer"**.
+3. Upload `restaurant.aia`.
+4. Once the project loads, click **“Connect” → “AI Companion”**.
+5. Open the **MIT AI2 Companion** app on your Android device.
+6. Scan the QR code shown on your screen.
+7. The app will launch on your phone for live testing.
+
+> **Note**: The app only works on Android and requires MIT AI2 Companion installed from the Play Store.
+
+---
+
 ## Troubleshooting
 
 - The Payment Gateway may take a few minutes to load due to network latency or server performance.
